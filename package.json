@@ -1,0 +1,29 @@
+{
+    "name": "authentication",
+    "version": "1.0.0",
+    "main": "try.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node home.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yishakt4/New-againn.git"
+    },
+    "keywords": [],
+    "author": "",
+    "key": "value",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/yishakt4/New-againn/issues"
+    },
+    "homepage": "https://github.com/yishakt4/New-againn#readme",
+    "dependencies": {
+      "ejs": "^3.1.10",
+      "express": "^4.21.2",
+      "mysql2": "^3.12.0",
+      "sequelize": "^6.37.5"
+    },
+    "description": ""
+  }
+  
